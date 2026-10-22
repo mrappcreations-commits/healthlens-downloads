@@ -1,4 +1,4 @@
-# HealthLens — Android Downloads
+# HealthLens Android Downloads
 
 Official Android APK releases for HealthLens.
 
